@@ -1,13 +1,3 @@
----
-title: README
-category: 翼班/NC(自作)
-tags: 
-created_at: '2022-03-27T20:28:43+09:00'
-updated_at: '2022-03-30T23:07:40+09:00'
-published: true
-number: 30
----
-
 <img width="960" alt="新規 Microsoft PowerPoint プレゼンテーション.png (19.4 kB)" src="https://img.esa.io/uploads/production/attachments/19339/2022/03/29/114086/ce66b325-c98a-4348-8bdd-e70d81f56b9a.png">
 
 # NC(自作)のサイトマップ
