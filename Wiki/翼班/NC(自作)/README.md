@@ -10,13 +10,13 @@
 ## [マニュアル](/posts/23)
 <details>
 
-[注意事項](/posts/24)
-[使用ソフト](/posts/25)
-[CAD の編集](/posts/26)
-[NCデータの実行](/posts/27)
-[Grbl の設定](/posts/28)
-[Fusion360の設定](/posts/29)
-[トラブルと対応](/posts/6)
+[注意事項](/posts/24)  
+[使用ソフト](/posts/25)  
+[CAD の編集](/posts/26)  
+[NCデータの実行](/posts/27)  
+[Grbl の設定](/posts/28)  
+[Fusion360の設定](/posts/29)  
+[トラブルと対応](/posts/6)  
 </details>
 
 ## [リブ進捗](/posts/14)
@@ -24,9 +24,9 @@
 ## その他
 <details>
 
-[このNCについて](/posts/5) 
-[トラブルと対応](/posts/6) 
-[基板について](/posts/21) 
+[このNCについて](/posts/5)  
+[トラブルと対応](/posts/6)  
+[基板について](/posts/21)  
 </details>
 
  ## [Q&A(NC)](/posts/12)
