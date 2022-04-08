@@ -1,5 +1,3 @@
-<img width="960" alt="新規 Microsoft PowerPoint プレゼンテーション.png (19.4 kB)" src="https://img.esa.io/uploads/production/attachments/19339/2022/03/29/114086/ce66b325-c98a-4348-8bdd-e70d81f56b9a.png">
-
 # NC(自作)のサイトマップ
 ## [禁止事項・注意事項](Wiki/注意事項など/NC(自作).md) 
 
