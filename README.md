@@ -1,6 +1,7 @@
 ![001](https://user-images.githubusercontent.com/103260061/162473624-96371ee1-522d-41cd-b4b8-7e6e2c49657b.png)
 # wiki
 引継ぎ資料的ななにか
+リンクを知ってれば誰でも見れるので変なことは書かないように。
 
 ## [Wikiの書き方](/Wiki/その他/Wikiの書き方.md)  
 ## [FF班のサイトマップ](Wiki/FF班) 
