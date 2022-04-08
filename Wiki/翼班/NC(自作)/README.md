@@ -1,4 +1,4 @@
-# NC(自作)のサイトマップ
+## NC(自作)のサイトマップ
 ## [禁止事項・注意事項](Wiki/注意事項など/NC(自作).md) 
 
 ## [NCの引継ぎ資料.pdf](https://github.com/TeamBirdmanTrial/wiki/files/8452513/NC.pdf)
