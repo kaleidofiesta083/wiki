@@ -1,3 +1,4 @@
+![001](https://user-images.githubusercontent.com/103260061/162473789-9089691e-8f72-4ee1-905c-d30d9c441592.png)
 ## NC(自作)のサイトマップ
 ## [禁止事項・注意事項](Wiki/注意事項など/NC(自作).md) 
 
