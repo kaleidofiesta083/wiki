@@ -5,10 +5,14 @@
 
 ## [Wikiの書き方](Wiki/その他/Wikiの書き方.md)  
 ## [サイトマップ](Wiki) 
- 
-<details>
+ <details>
+
 [翼班](Wiki/翼班)  
 [FF班](Wiki/FF班)  
+[試験系](Wiki/試験系) 
+<details>
+A
+</details>
 </details>
 
 
