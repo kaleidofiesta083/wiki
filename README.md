@@ -6,6 +6,10 @@
 ## [Wikiの書き方](Wiki/その他/Wikiの書き方.md)  
 ## [サイトマップ](Wiki) 
  
+<details>
+
+[翼班](翼班) 
+</details>
 
 
 ### 非公式
