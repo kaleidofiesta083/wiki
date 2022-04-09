@@ -7,8 +7,9 @@
 ## [サイトマップ](Wiki) 
  
 <details>
-[翼班](Wiki/翼班) 
-[FF班](Wiki/FF班) 
+
+[翼班](Wiki/翼班)  
+[FF班](Wiki/FF班)  
 </details>
 
 
