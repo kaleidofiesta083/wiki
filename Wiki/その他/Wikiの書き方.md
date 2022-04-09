@@ -10,4 +10,4 @@
 新しいページを作成するときは  名前.md  とする
 
 参考になるサイト  
-あ
+[Markdown記法 サンプル集](https://qiita.com/tbpgr/items/989c6badefff69377da7)
