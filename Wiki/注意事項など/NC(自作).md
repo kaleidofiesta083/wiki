@@ -11,5 +11,5 @@
 
 
 参考
-[引継ぎ資料_危険.pdf (268.7 kB)](https://esa-storage-tokyo.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/19339/2022/03/30/114086/400e08d0-d88a-4c7b-88da-3116dd317d62.pdf)
-[安全衛生のポイント_電動工具の取扱い.pdf (3.3 MB)](https://esa-storage-tokyo.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/19339/2022/03/30/114086/034cee43-228f-4fab-af1a-51f3bec6bf18.pdf)
+[引継ぎ資料_危険.pdf](https://github.com/TeamBirdmanTrial/wiki/files/8456168/_.pdf)  
+[安全衛生のポイント_電動工具の取扱い.pdf](https://github.com/TeamBirdmanTrial/wiki/files/8456169/02telecommunication5_tools_jp.pdf)  
