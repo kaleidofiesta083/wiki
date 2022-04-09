@@ -11,17 +11,12 @@
 [翼班](Wiki/翼班)  
 [FF班](Wiki/FF班)  
 [試験系](Wiki/試験系) 
-<details>
-
-[TF](Wiki/試験系/TF)  
+    <details>
+    
+    [TF](Wiki/試験系/TF)  
+    </details>
 </details>
-</details>
 
-1. 番号付きリスト1
-    1. 番号付きリスト1_1
-    1. 番号付きリスト1_2
-1. 番号付きリスト2
-1. 番号付きリスト3
 
 ### 非公式
 
