@@ -6,7 +6,6 @@
 
 # [Wikiの書き方](Wiki/その他/Wikiの書き方.md)  
 # [サイトマップ](Wiki) 
- <details>
 
 ## [翼班](Wiki/翼班)  
 ## [FF班](Wiki/FF班)  
@@ -14,7 +13,6 @@
 <details>
 
 [TF](Wiki/試験系/TF)  
-</details>
 </details>
 
 
