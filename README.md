@@ -8,7 +8,7 @@
 
 # [サイトマップ](Wiki) 
 ## [翼班](Wiki/翼班)  
-<details>
+## <details>
 
 [NC](Wiki/翼班/NC(自作)/README.md)
 </details>
