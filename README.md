@@ -15,12 +15,11 @@
 
 ## [FF班](Wiki/FF班)  
 ## [試験系](Wiki/試験系) 
-<details>
-
+<details>  
 [桁荷重試験](Wiki/試験系/桁荷重試験)  
 [全翼接合試験](Wiki/試験系/全翼接合試験)  
 [TF](Wiki/試験系/TF)  
-</details>
+</details>  
 
 
 ### 非公式
