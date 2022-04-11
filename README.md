@@ -10,7 +10,7 @@
 ## [翼班](Wiki/翼班)  
 <details>
 
-[NC](Wiki/翼班/NC(自作)/README)
+[NC](Wiki/翼班/NC(自作)/README.md)
 </details>
 
 ## [FF班](Wiki/FF班)  
