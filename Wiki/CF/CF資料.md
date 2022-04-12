@@ -1,4 +1,10 @@
 
 
+
+
 S260のgoogle driveより
+
+S260のgoogle drive↓(S260の人のみアクセス可能)
+https://drive.google.com/drive/folders/1a3S3KJsqmooPuPL2VW5HuSQuGHV72Wqp
+
 [（ガトーさんより）桁作成時の注意.docx](https://github.com/TeamBirdmanTrial/wiki/files/8473916/default.docx)
