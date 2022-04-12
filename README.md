@@ -15,6 +15,7 @@
 </details>
 
 ## [FF班](Wiki/FF班)  
+## [CFRP班](Wiki/CFRP班)
 ## [試験系](Wiki/試験系) 
 <details>  
 
